@@ -1,0 +1,19 @@
+{
+  "active": true,
+  "hint": null,
+  "name": "Demo TAG",
+  "order": null,
+  "roles": "x_308211_demo_tag.user",
+  "sys_class_name": "sys_ui_application",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-11-21 19:50:43",
+  "sys_id": "a229e0c5dbd14010343f58b3ca961987",
+  "sys_mod_count": 0,
+  "sys_name": "Demo TAG",
+  "sys_package": "7d29e805dbd14010343f58b3ca961911",
+  "sys_policy": null,
+  "sys_scope": "7d29e805dbd14010343f58b3ca961911",
+  "sys_update_name": "sys_ui_application_a229e0c5dbd14010343f58b3ca961987",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-11-21 19:50:43"
+}
